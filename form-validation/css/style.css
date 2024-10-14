@@ -1,0 +1,23 @@
+:root {
+  --uniform: #f0f0f0;
+  --primary: #666666;
+  --tertiary: #8b8b8b;
+  --grey: #8a8989;
+}
+
+.form-section {
+  min-height: 100vh;
+}
+.forms {
+  background-color: var(--uniform);
+}
+
+.btn-form {
+  background-color: var(--tertiary);
+  color: var(--uniform);
+}
+
+.form-section h3 {
+  color: var(--primary);
+  color: var(--grey);
+}
